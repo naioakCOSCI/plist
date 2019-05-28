@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>info</key>
+	<array>
+		<string>test test test test test test test test</string>
+		<string>Hello Hello Hello Hello Hello</string>
+		<string>abcdegdlfkkdjfdjfkdjdkj</string>
+		<string>property list / <sqlite / database / firebase </string>
+		<string>ทดสอบการทำงานของ property list ใน swift4</string>
+	</array>
+	<key>images</key>
+	<array>
+		<string>a.png</string>
+		<string>b.png</string>
+		<string>c.png</string>
+		<string>d.png</string>
+		<string>e.png</string>
+	</array>
+	<key>name</key>
+	<array>
+		<string>ศุภรัตน์</string>
+		<string>สาธิต</string>
+		<string>สุฑารัตน์</string>
+		<string>เสาวภาคย์</string>
+		<string>อุษณิษา</string>
+	</array>
+</dict>
+</plist>
